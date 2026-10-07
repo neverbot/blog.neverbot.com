@@ -4,17 +4,10 @@
   publish = "web/public"
   command = "npm run build:pro"
 
-# redirect from blog.neverbot.com
+# redirect from www.blog.neverbot.com
 [[redirects]]
-  from = "https://blog.neverbot.com/*"
-  to = "https://neverbot.com/:splat"
-  status = 301
-  force = true
-
-# redirect from www.neverbot.com
-[[redirects]]
-  from = "https://www.neverbot.com/*"
-  to = "https://neverbot.com/:splat"
+  from = "https://www.blog.neverbot.com/*"
+  to = "https://blog.neverbot.com/:splat"
   status = 301
   force = true
 

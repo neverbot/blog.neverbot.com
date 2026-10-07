@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: neverbot.com
+title: blog.neverbot.com
 subtitle: ''
 description: 'Página personal de Iván Alonso. Una forma como cualquier otra de perder el tiempo.'
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://neverbot.com
+url: https://blog.neverbot.com
 permalink: :name/
 permalink_defaults:
 pretty_urls:
