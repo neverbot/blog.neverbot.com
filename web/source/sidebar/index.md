@@ -1,6 +1,8 @@
 ---
 title: sidebar
 date: 2024-07-31 11:56:47
+sitemap: false
+noindex: true
 ---
 
 ### Más subcultura  
