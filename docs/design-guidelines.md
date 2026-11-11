@@ -1,4 +1,4 @@
-# neverbot.com Design Guidelines
+# blog.neverbot.com Design Guidelines
 
 Personal blog by Iván Alonso (neverbot). Spanish language. Pop culture, cinema, anime, books.
 
